@@ -2,8 +2,8 @@
 
 
 <h2>Certifications</h2> 
-<b> Comptia Security+ </b></br>
-<b> Google Cybersecurity Professional Certificate</b>
+<a href="CompTIA Security+ ce certificate.pdf">Comptia Security+ </a></br>
+<a href="Google CyberSecurity Cert.pdf">Google Cybersecurity Professional Certificate</a>
 
 
 
