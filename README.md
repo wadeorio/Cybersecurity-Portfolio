@@ -13,8 +13,8 @@
   - [Praciting creating VM's and running AD](https://github.com/wadeorio/ActiveDirectoryHomeLab)
 - <b>Vulnerability Management Home Lab</b>
   - [OpenVas VM Lab](https://github.com/wadeorio/Vulnerability-Management-Lab) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>EDR Home Lab</b>
+  - [Endpoint, Detection, and Response Home Lab](https://github.com/wadeorio/Endpoint-Detection-and-Response-Home-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
